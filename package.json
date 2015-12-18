@@ -1,0 +1,15 @@
+{
+  "name": "webdevelopment",
+  "version": "1.0.0",
+  "description": "beginner app with some routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nina Fat",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.3"
+  }
+}
